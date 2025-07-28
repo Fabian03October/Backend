@@ -21,7 +21,7 @@ return [
 
     'allowed_origins' => [
         env('FRONTEND_URL', 'http://localhost:4200'),
-        'http://localhost:4200',
+        'https://frond-seven.vercel.app',
         'http://127.0.0.1:4200'
     ],
 
